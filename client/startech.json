@@ -1,0 +1,773 @@
+{
+  "mobile": [
+    {
+      "id": 112233,
+      "title": "Xiaomi Redmi 13 (6/128GB)",
+      "image": "https://www.startech.com.bd/image/cache/catalog/mobile/xiaomi/redmi-13/redmi-13-midnight-black-500x500.webp",
+      "price": 999.99,
+      "regularPrice": 1099.99,
+      "status": ["In Stock", "sold"],
+      "productCode": "ek-m123",
+      "brand": "XIAOMI",
+      "category": "Smartphone",
+      "model": "Redmi 13",
+      "display": "{6.79\" FHD+ 90Hz IPS Dot Display}",
+      "processor": "MediaTek Helio G91-Ultra (12nm)",
+      "camera": "Dual 108+2MP on Rear, 13MP Selfie",
+      "feature": " Side Fingerprint, 33W Fast Charging",
+      "color": ["Black", "Blue", "Green", "White", "Red"],
+      "Display": [
+        {
+          "size": "6.79 Inches",
+          "type": "IPS LCD",
+          "resolution": "FHD+ (1080x2400) pixels",
+          "refreshRate": "90Hz",
+          "brightness": "450 nits",
+          "protection": "Corning Gorilla Glass 3",
+          "features": [
+            "Supports Reading mode",
+            "DC dimming",
+            "Corning Gorilla Glass screen",
+            "TUV Rheinland Low Blue Light Certification",
+            "Sunlight mode"
+          ]
+        }
+      ],
+      "Processor": [
+        {
+          "processor": "MediaTek Helio G91-Ultra",
+          "fabrication": "12nm",
+          "CPU": "Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+          "GPU": "Mali-G76 MC4",
+          "AI": "Yes",
+          "Modem": "4G LTE"
+        }
+      ],
+      "Memory": [
+        {
+          "ram": "6GB",
+          "storage": "128GB",
+          "card": "microSDXC (dedicated slot)"
+        }
+      ],
+      "RearCamera": [
+        {
+          "camera": "Dual 108+2MP",
+          "features": [
+            "Dual-LED dual-tone flash",
+            "HDR",
+            "panorama",
+            "4K@30fps",
+            "1080p@30/60/120fps",
+            "720p@960fps"
+          ]
+        }
+      ],
+      "FrontCamera": [
+        {
+          "camera": "13MP",
+          "features": ["HDR", "1080p@30fps"]
+        }
+      ],
+      "audio": [
+        {
+          "speaker": "Yes",
+          "headphoneJack": "Yes"
+        }
+      ],
+      "networkConnectivity": [
+        {
+          "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+          "Network": ["2G", "3G", "4G"],
+          "WiFi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+          "Bluetooth": "Bluetooth 5.4, A2DP, LE",
+          "GPS": ["GPS", "GLONASS", "GALILEO", "BDS"],
+          "NFC": "Yes",
+          "USB": "USB Type-C",
+          "OTG": "Yes",
+          "audioJack": "3.5mm Jack"
+        }
+      ],
+      "os": [
+        {
+          "operatingSystem": "Android 12, MIUI 13",
+          "customUI": "HyperOS"
+        }
+      ],
+      "features": [
+        {
+          "sensor": [
+            "Fingerprint (side-mounted)",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass"
+          ],
+          "batteryType": "Li-Po 5000 mAh, non-removable",
+          "charging": "33W Fast Charging",
+          "reverseCharging": "Yes"
+        }
+      ],
+      "battery": [
+        {
+          "batteryType": "Li-Po 5000 mAh, non-removable",
+          "charging": "33W Fast Charging",
+          "reverseCharging": "Yes"
+        }
+      ],
+      "physical": [
+        {
+          "dimension": "173.6 x 85.3 x 8.8 mm",
+          "weight": "225 g",
+          "build": "Glass front (Gorilla Glass 3), plastic frame, plastic back"
+        }
+      ],
+      "warranty": [
+        {
+          "warranty": "5 Year Service Warranty"
+        }
+      ]
+    },
+    {
+      "id": 112233,
+      "title": "Xiaomi Redmi 12 (6/128GB)",
+      "image": "https://www.startech.com.bd/image/cache/catalog/mobile/xiaomi/redmi-13/redmi-13-midnight-black-500x500.webp",
+      "price": 999.99,
+      "regularPrice": 1099.99,
+      "status": ["In Stock", "sold"],
+      "productCode": "ek-m123",
+      "brand": "WALTON",
+      "category": "Smartphone",
+      "model": "Redmi 13",
+      "display": "{6.79\" FHD+ 90Hz IPS Dot Display}",
+      "processor": "MediaTek Helio G91-Ultra (12nm)",
+      "camera": "Dual 108+2MP on Rear, 13MP Selfie",
+      "feature": " Side Fingerprint, 33W Fast Charging",
+      "color": ["Black", "Blue", "Green", "White", "Red"],
+      "Display": [
+        {
+          "size": "6.79 Inches",
+          "type": "IPS LCD",
+          "resolution": "FHD+ (1080x2400) pixels",
+          "refreshRate": "90Hz",
+          "brightness": "450 nits",
+          "protection": "Corning Gorilla Glass 3",
+          "features": [
+            "Supports Reading mode",
+            "DC dimming",
+            "Corning Gorilla Glass screen",
+            "TUV Rheinland Low Blue Light Certification",
+            "Sunlight mode"
+          ]
+        }
+      ],
+      "Processor": [
+        {
+          "processor": "MediaTek Helio G91-Ultra",
+          "fabrication": "12nm",
+          "CPU": "Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+          "GPU": "Mali-G76 MC4",
+          "AI": "Yes",
+          "Modem": "4G LTE"
+        }
+      ],
+      "Memory": [
+        {
+          "ram": "6GB",
+          "storage": "128GB",
+          "card": "microSDXC (dedicated slot)"
+        }
+      ],
+      "RearCamera": [
+        {
+          "camera": "Dual 108+2MP",
+          "features": [
+            "Dual-LED dual-tone flash",
+            "HDR",
+            "panorama",
+            "4K@30fps",
+            "1080p@30/60/120fps",
+            "720p@960fps"
+          ]
+        }
+      ],
+      "FrontCamera": [
+        {
+          "camera": "13MP",
+          "features": ["HDR", "1080p@30fps"]
+        }
+      ],
+      "audio": [
+        {
+          "speaker": "Yes",
+          "headphoneJack": "Yes"
+        }
+      ],
+      "networkConnectivity": [
+        {
+          "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+          "Network": ["2G", "3G", "4G"],
+          "WiFi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+          "Bluetooth": "Bluetooth 5.4, A2DP, LE",
+          "GPS": ["GPS", "GLONASS", "GALILEO", "BDS"],
+          "NFC": "Yes",
+          "USB": "USB Type-C",
+          "OTG": "Yes",
+          "audioJack": "3.5mm Jack"
+        }
+      ],
+      "os": [
+        {
+          "operatingSystem": "Android 12, MIUI 13",
+          "customUI": "HyperOS"
+        }
+      ],
+      "features": [
+        {
+          "sensor": [
+            "Fingerprint (side-mounted)",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass"
+          ],
+          "batteryType": "Li-Po 5000 mAh, non-removable",
+          "charging": "33W Fast Charging",
+          "reverseCharging": "Yes"
+        }
+      ],
+      "battery": [
+        {
+          "batteryType": "Li-Po 5000 mAh, non-removable",
+          "charging": "33W Fast Charging",
+          "reverseCharging": "Yes"
+        }
+      ],
+      "physical": [
+        {
+          "dimension": "173.6 x 85.3 x 8.8 mm",
+          "weight": "225 g",
+          "build": "Glass front (Gorilla Glass 3), plastic frame, plastic back"
+        }
+      ],
+      "warranty": [
+        {
+          "warranty": "5 Year Service Warranty"
+        }
+      ]
+    },
+    {
+      "id": 112234,
+      "title": "Samsung Galaxy S21 (8/256GB)",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SL1500_.jpg",
+      "price": 1199.99,
+      "regularPrice": 1299.99,
+      "status": ["In Stock"],
+      "productCode": "sg-s21",
+      "brand": "SAMSUNG",
+      "category": "Smartphone",
+      "model": "Galaxy S21",
+      "display": "{6.2\" FHD+ 120Hz AMOLED Display}",
+      "processor": "Exynos 2100 (5nm)",
+      "camera": "Triple 64+12+12MP on Rear, 10MP Selfie",
+      "feature": "Under Display Fingerprint, 25W Fast Charging",
+      "color": [
+        "Phantom Gray",
+        "Phantom White",
+        "Phantom Violet",
+        "Phantom Pink"
+      ],
+      "Display": [
+        {
+          "size": "6.79 Inches",
+          "type": "IPS LCD",
+          "resolution": "FHD+ (1080x2400) pixels",
+          "refreshRate": "90Hz",
+          "brightness": "450 nits",
+          "protection": "Corning Gorilla Glass 3",
+          "features": [
+            "Supports Reading mode",
+            "DC dimming",
+            "Corning Gorilla Glass screen",
+            "TUV Rheinland Low Blue Light Certification",
+            "Sunlight mode"
+          ]
+        }
+      ],
+      "Processor": [
+        {
+          "processor": "Exynos 2100",
+          "fabrication": "5nm",
+          "CPU": "Octa-core (1x2.9 GHz Cortex-X1 & 3x2.80 GHz Cortex-A78 & 4x2.2 GHz Cortex-A55)",
+          "GPU": "Mali-G78 MP14",
+          "AI": "Yes",
+          "Modem": "5G"
+        }
+      ],
+      "Memory": [
+        {
+          "ram": "8GB",
+          "storage": "256GB",
+          "card": "No"
+        }
+      ],
+      "RearCamera": [
+        {
+          "camera": "Triple 64+12+12MP",
+          "features": [
+            "LED flash",
+            "auto-HDR",
+            "panorama",
+            "8K@24fps",
+            "4K@30/60fps",
+            "1080p@30/60/240fps",
+            "720p@960fps"
+          ]
+        }
+      ],
+      "FrontCamera": [
+        {
+          "camera": "10MP",
+          "features": [
+            "Dual video call",
+            "Auto-HDR",
+            "4K@30/60fps",
+            "1080p@30fps"
+          ]
+        }
+      ],
+      "audio": [
+        {
+          "speaker": "Yes",
+          "headphoneJack": "No"
+        }
+      ],
+      "networkConnectivity": [
+        {
+          "SIM": "Dual SIM (Nano-SIM and eSIM, dual stand-by)",
+          "Network": ["2G", "3G", "4G", "5G"],
+          "WiFi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+          "Bluetooth": "Bluetooth 5.0, A2DP, LE",
+          "GPS": ["GPS", "GLONASS", "BDS", "GALILEO"],
+          "NFC": "Yes",
+          "USB": "USB Type-C 3.2",
+          "OTG": "Yes",
+          "audioJack": "No"
+        }
+      ],
+      "os": [
+        {
+          "operatingSystem": "Android 11, One UI 3.1",
+          "customUI": "One UI"
+        }
+      ],
+      "features": [
+        {
+          "sensor": [
+            "Fingerprint (under display, ultrasonic)",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass",
+            "barometer"
+          ],
+          "batteryType": "Li-Ion 4000 mAh, non-removable",
+          "charging": "25W Fast Charging",
+          "reverseCharging": "4.5W Reverse Wireless Charging"
+        }
+      ],
+      "battery": [
+        {
+          "batteryType": "Li-Ion 4000 mAh, non-removable",
+          "charging": "25W Fast Charging",
+          "reverseCharging": "4.5W Reverse Wireless Charging"
+        }
+      ],
+      "physical": [
+        {
+          "dimension": "151.7 x 71.2 x 7.9 mm",
+          "weight": "169 g",
+          "build": "Glass front (Gorilla Glass Victus), plastic back, aluminum frame"
+        }
+      ],
+      "warranty": [
+        {
+          "warranty": "1 Year Service Warranty"
+        }
+      ]
+    },
+    {
+      "id": 112235,
+      "title": "Apple iPhone 13 Pro (6/128GB)",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SL1500_.jpg",
+      "price": 1299.99,
+      "regularPrice": 1399.99,
+      "status": ["In Stock"],
+      "productCode": "ip-13pro",
+      "brand": "Apple",
+      "category": "Smartphone",
+      "model": "iPhone 13 Pro",
+      "display": "{6.1\" Super Retina XDR OLED Display}",
+      "processor": "Apple A15 Bionic (5nm)",
+      "camera": "Triple 12MP on Rear, 12MP Selfie",
+      "feature": "Face ID, 20W Fast Charging",
+      "color": ["Graphite", "Gold", "Silver", "Sierra Blue"],
+      "Display": [
+        {
+          "size": "6.1 Inches",
+          "type": "Super Retina XDR OLED",
+          "resolution": "1170 x 2532 pixels",
+          "refreshRate": "120Hz",
+          "brightness": "1000 nits",
+          "protection": "Ceramic Shield",
+          "features": ["HDR10", "Dolby Vision", "Wide color (P3)", "True-tone"]
+        }
+      ],
+      "Processor": [
+        {
+          "processor": "Apple A15 Bionic",
+          "fabrication": "5nm",
+          "CPU": "Hexa-core (2x3.22 GHz Avalanche + 4xX.X GHz Blizzard)",
+          "GPU": "Apple GPU (5-core graphics)",
+          "AI": "Yes",
+          "Modem": "5G"
+        }
+      ],
+      "Memory": [
+        {
+          "ram": "6GB",
+          "storage": "128GB",
+          "card": "No"
+        }
+      ],
+      "RearCamera": [
+        {
+          "camera": "Triple 12MP",
+          "features": [
+            "Dual-LED dual-tone flash",
+            "HDR (photo/panorama)",
+            "4K@24/30/60fps",
+            "1080p@30/60/120/240fps"
+          ]
+        }
+      ],
+      "FrontCamera": [
+        {
+          "camera": "12MP",
+          "features": [
+            "SL 3D (depth/biometrics sensor)",
+            "HDR",
+            "4K@24/25/30/60fps",
+            "1080p@30/60/120fps"
+          ]
+        }
+      ],
+      "audio": [
+        {
+          "speaker": "Yes",
+          "headphoneJack": "No"
+        }
+      ],
+      "networkConnectivity": [
+        {
+          "SIM": "Dual SIM (Nano-SIM and eSIM, dual stand-by)",
+          "Network": ["2G", "3G", "4G", "5G"],
+          "WiFi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+          "Bluetooth": "Bluetooth 5.0, A2DP, LE",
+          "GPS": ["GPS", "GLONASS", "GALILEO", "QZSS"],
+          "NFC": "Yes",
+          "USB": "Lightning, USB 2.0",
+          "OTG": "No",
+          "audioJack": "No"
+        }
+      ],
+      "os": [
+        {
+          "operatingSystem": "iOS 15",
+          "customUI": "iOS"
+        }
+      ],
+      "features": [
+        {
+          "sensor": [
+            "Face ID",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass",
+            "barometer"
+          ],
+          "batteryType": "Li-Ion 3095 mAh, non-removable",
+          "charging": "20W Fast Charging",
+          "reverseCharging": "15W MagSafe Wireless Charging"
+        }
+      ],
+      "battery": [
+        {
+          "batteryType": "Li-Ion 3095 mAh, non-removable",
+          "charging": "20W Fast Charging",
+          "reverseCharging": "15W MagSafe Wireless Charging"
+        }
+      ],
+      "physical": [
+        {
+          "dimension": "146.7 x 71.5 x 7.7 mm",
+          "weight": "204 g",
+          "build": "Glass front (Corning-made glass), glass back (Corning-made glass), stainless steel frame"
+        }
+      ],
+      "warranty": [
+        {
+          "warranty": "1 Year Service Warranty"
+        }
+      ]
+    },
+    {
+      "id": 112236,
+      "title": "OnePlus 9 Pro (12/256GB)",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SL1500_.jpg",
+      "price": 999.99,
+      "regularPrice": 1099.99,
+      "status": ["In Stock"],
+      "productCode": "op-9pro",
+      "brand": "OnePlus",
+      "category": "Smartphone",
+      "model": "9 Pro",
+      "display": "{6.7\" Fluid AMOLED 120Hz Display}",
+      "processor": "Snapdragon 888 (5nm)",
+      "camera": "Quad 48+8+50+2MP on Rear, 16MP Selfie",
+      "feature": "Under Display Fingerprint, 65W Fast Charging",
+      "color": ["Morning Mist", "Pine Green", "Stellar Black"],
+      "Display": [
+        {
+          "size": "6.7 Inches",
+          "type": "Fluid AMOLED",
+          "resolution": "1440 x 3216 pixels",
+          "refreshRate": "120Hz",
+          "brightness": "1300 nits",
+          "protection": "Corning Gorilla Glass",
+          "features": ["HDR10+", "Always-on display"]
+        }
+      ],
+      "Processor": [
+        {
+          "processor": "Snapdragon 888",
+          "fabrication": "5nm",
+          "CPU": "Octa-core (1x2.84 GHz Cortex-X1 & 3x2.42 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55)",
+          "GPU": "Adreno 660",
+          "AI": "Yes",
+          "Modem": "5G"
+        }
+      ],
+      "Memory": [
+        {
+          "ram": "12GB",
+          "storage": "256GB",
+          "card": "No"
+        }
+      ],
+      "RearCamera": [
+        {
+          "camera": "Quad 48+8+50+2MP",
+          "features": [
+            "Hasselblad Color Calibration",
+            "Dual-LED flash",
+            "HDR",
+            "panorama",
+            "8K@30fps",
+            "4K@30/60/120fps",
+            "1080p@30/60/240fps"
+          ]
+        }
+      ],
+      "FrontCamera": [
+        {
+          "camera": "16MP",
+          "features": ["Auto-HDR", "1080p@30fps"]
+        }
+      ],
+      "audio": [
+        {
+          "speaker": "Yes",
+          "headphoneJack": "No"
+        }
+      ],
+      "networkConnectivity": [
+        {
+          "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+          "Network": ["2G", "3G", "4G", "5G"],
+          "WiFi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+          "Bluetooth": "Bluetooth 5.2, A2DP, LE, aptX HD",
+          "GPS": ["GPS", "GLONASS", "GALILEO", "BDS", "SBAS"],
+          "NFC": "Yes",
+          "USB": "USB Type-C 3.1",
+          "OTG": "Yes",
+          "audioJack": "No"
+        }
+      ],
+      "os": [
+        {
+          "operatingSystem": "Android 11, OxygenOS 11.2",
+          "customUI": "OxygenOS"
+        }
+      ],
+      "features": [
+        {
+          "sensor": [
+            "Fingerprint (under display, optical)",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass",
+            "color spectrum"
+          ],
+          "batteryType": "Li-Po 4500 mAh, non-removable",
+          "charging": "65W Fast Charging",
+          "reverseCharging": "50W Wireless Charging"
+        }
+      ],
+      "battery": [
+        {
+          "batteryType": "Li-Po 4500 mAh, non-removable",
+          "charging": "65W Fast Charging",
+          "reverseCharging": "50W Wireless Charging"
+        }
+      ],
+      "physical": [
+        {
+          "dimension": "163.2 x 73.6 x 8.7 mm",
+          "weight": "197 g",
+          "build": "Glass front (Gorilla Glass), glass back (Gorilla Glass), aluminum frame"
+        }
+      ],
+      "warranty": [
+        {
+          "warranty": "1 Year Service Warranty"
+        }
+      ]
+    },
+    {
+      "id": 112237,
+      "title": "Google Pixel 6 (8/128GB)",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SL1500_.jpg",
+      "price": 899.99,
+      "regularPrice": 999.99,
+      "status": ["In Stock"],
+      "productCode": "gp-6",
+      "brand": "Google",
+      "category": "Smartphone",
+      "model": "Pixel 6",
+      "display": "{6.4\" AMOLED 90Hz Display}",
+      "processor": "Google Tensor (5nm)",
+      "camera": "Dual 50+12MP on Rear, 8MP Selfie",
+      "feature": "Under Display Fingerprint, 30W Fast Charging",
+      "color": ["Stormy Black", "Kinda Coral", "Sorta Seafoam"],
+      "Display": [
+        {
+          "size": "6.4 Inches",
+          "type": "AMOLED",
+          "resolution": "1080 x 2400 pixels",
+          "refreshRate": "90Hz",
+          "brightness": "800 nits",
+          "protection": "Corning Gorilla Glass Victus",
+          "features": ["Always-on display", "HDR10+"]
+        }
+      ],
+      "Processor": [
+        {
+          "processor": "Google Tensor",
+          "fabrication": "5nm",
+          "CPU": "Octa-core (2x2.80 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.80 GHz Cortex-A55)",
+          "GPU": "Mali-G78 MP20",
+          "AI": "Yes",
+          "Modem": "5G"
+        }
+      ],
+      "Memory": [
+        {
+          "ram": "8GB",
+          "storage": "128GB",
+          "card": "No"
+        }
+      ],
+      "RearCamera": [
+        {
+          "camera": "Dual 50+12MP",
+          "features": [
+            "Dual-LED flash",
+            "Pixel Shift",
+            "Auto-HDR",
+            "panorama",
+            "4K@30/60fps",
+            "1080p@30/60/120/240fps"
+          ]
+        }
+      ],
+      "FrontCamera": [
+        {
+          "camera": "8MP",
+          "features": ["Auto-HDR", "1080p@30fps"]
+        }
+      ],
+      "audio": [
+        {
+          "speaker": "Yes",
+          "headphoneJack": "No"
+        }
+      ],
+      "networkConnectivity": [
+        {
+          "SIM": "Nano-SIM and eSIM",
+          "Network": ["2G", "3G", "4G", "5G"],
+          "WiFi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band",
+          "Bluetooth": "Bluetooth 5.2, A2DP, LE",
+          "GPS": ["GPS", "GLONASS", "GALILEO", "QZSS"],
+          "NFC": "Yes",
+          "USB": "USB Type-C 3.1",
+          "OTG": "Yes",
+          "audioJack": "No"
+        }
+      ],
+      "os": [
+        {
+          "operatingSystem": "Android 12",
+          "customUI": "Pixel UI"
+        }
+      ],
+      "features": [
+        {
+          "sensor": [
+            "Fingerprint (under display, optical)",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass",
+            "barometer"
+          ],
+          "batteryType": "Li-Ion 4614 mAh, non-removable",
+          "charging": "30W Fast Charging",
+          "reverseCharging": "21W Wireless Charging"
+        }
+      ],
+      "battery": [
+        {
+          "batteryType": "Li-Ion 4614 mAh, non-removable",
+          "charging": "30W Fast Charging",
+          "reverseCharging": "21W Wireless Charging"
+        }
+      ],
+      "physical": [
+        {
+          "dimension": "158.6 x 74.8 x 8.9 mm",
+          "weight": "207 g",
+          "build": "Glass front (Gorilla Glass Victus), glass back (Gorilla Glass 6), aluminum frame"
+        }
+      ],
+      "warranty": [
+        {
+          "warranty": "1 Year Service Warranty"
+        }
+      ]
+    }
+  ]
+}

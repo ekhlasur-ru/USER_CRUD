@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-[Inter] text-gray-800 dark:text-white dark:bg-gray-800 bg-gray-100;
+}
+
+@layer components {
+  .sub-menu {
+    @apply absolute top-[4.2rem] origin-[75%_-170px] rounded-lg bg-white shadow-lg p-4 backdrop-blur transition-transform duration-300 ease-in-out;
+  }
+}
+
+@layer utilities {
+  .flex-center {
+    @apply flex items-center;
+  }
+  .flex-center-between {
+    @apply flex items-center justify-between;
+  }
+  .btn {
+    @apply px-4 py-2 rounded-lg bg-blue-500 text-white hover:bg-blue-600 transition-colors duration-300 ease-in-out;
+  }
+}
+
+/* Custom class for hiding scrollbar using Tailwind */
+.scroll-container::-webkit-scrollbar {
+  @apply hidden;
+}
+.scroll-container {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+/* custom-scrollbar.css */
+/* Custom scrollbar for webkit browsers */
+::-webkit-scrollbar {
+  width: 8px;
+  background: #e0e0e0;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #4a90e2; /* Modern blue color */
+  border-radius: 4px;
+  border: 2px solid #e0e0e0;
+}
+
+::-webkit-scrollbar-track {
+  background: #e0e0e0;
+  border-radius: 10px;
+}
+
+/* Custom scrollbar for Mozilla Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #4a90e2 #e0e0e0; /* Modern blue color */
+}
+
+
+
+

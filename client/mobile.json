@@ -1,0 +1,137 @@
+{
+  "mobile": [
+    {
+      "id": 112233,
+      "title": "Xiaomi Redmi 13 (6/128GB)",
+      "image": "https://www.startech.com.bd/image/cache/catalog/mobile/xiaomi/redmi-13/redmi-13-midnight-black-500x500.webp",
+      "price": 999.99,
+      "regularPrice": 1099.99,
+      "status": ["In Stock", "sold"],
+      "productCode": "ek-m123",
+      "brand": "XIAOMI",
+      "category": "Smartphone",
+
+      "keyfeatures": [
+        {
+          "model": "Redmi 13",
+          "display": "{6.79\" FHD+ 90Hz IPS Dot Display}",
+          "processor": "MediaTek Helio G91-Ultra (12nm)",
+          "camera": "Dual 108+2MP on Rear, 13MP Selfie",
+          "feature": " Side Fingerprint, 33W Fast Charging",
+          "color": ["Black", "Blue", "Green", "White", "Red"]
+        }
+      ],
+      "Display": [
+        {
+          "size": "6.79 Inches",
+          "type": "IPS LCD",
+          "resolution": "FHD+ (1080x2400) pixels",
+          "refreshRate": "90Hz",
+          "brightness": "450 nits",
+          "protection": "Corning Gorilla Glass 3",
+          "features": [
+            "Supports Reading mode",
+            "DC dimming",
+            "Corning Gorilla Glass screen",
+            "TUV Rheinland Low Blue Light Certification",
+            "Sunlight mode"
+          ]
+        }
+      ],
+      "Processor": [
+        {
+          "processor": "MediaTek Helio G91-Ultra",
+          "fabrication": "12nm",
+          "CPU": "Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+          "GPU": "Mali-G76 MC4",
+          "AI": "Yes",
+          "Modem": "4G LTE"
+        }
+      ],
+      "Memory": [
+        {
+          "ram": "6GB",
+          "storage": "128GB",
+          "card": "microSDXC (dedicated slot)"
+        }
+      ],
+      "RearCamera": [
+        {
+          "camera": "Dual 108+2MP",
+          "features": [
+            "Dual-LED dual-tone flash",
+            "HDR",
+            "panorama",
+            "4K@30fps",
+            "1080p@30/60/120fps",
+            "720p@960fps"
+          ]
+        }
+      ],
+      "FrontCamera": [
+        {
+          "camera": "13MP",
+          "features": ["HDR", "1080p@30fps"]
+        }
+      ],
+      "audio": [
+        {
+          "speaker": "Yes",
+          "headphoneJack": "Yes"
+        }
+      ],
+      "networkConnectivity": [
+        {
+          "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+          "Network": ["2G", "3G", "4G"],
+          "WiFi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+          "Bluetooth": "Bluetooth 5.4, A2DP, LE",
+          "GPS": ["GPS", "GLONASS", "GALILEO", "BDS"],
+          "NFC": "Yes",
+          "USB": "USB Type-C",
+          "OTG": "Yes",
+          "audioJack": "3.5mm Jack"
+        }
+      ],
+      "os": [
+        {
+          "operatingSystem": "Android 12, MIUI 13",
+          "customUI": "HyperOS"
+        }
+      ],
+      "features": [
+        {
+          "sensor": [
+            "Fingerprint (side-mounted)",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass"
+          ],
+          "batteryType": "Li-Po 5000 mAh, non-removable",
+          "charging": "33W Fast Charging",
+          "reverseCharging": "Yes"
+        }
+      ],
+      "battery": [
+        {
+          "batteryType": "Li-Po 5000 mAh, non-removable",
+          "charging": "33W Fast Charging",
+          "reverseCharging": "Yes"
+        }
+      ],
+      "physical": [
+        {
+          "dimension": "173.6 x 85.3 x 8.8 mm",
+          "weight": "225 g",
+          "build": "Glass front (Gorilla Glass 3), plastic frame, plastic back"
+        }
+      ],
+      "warranty": [
+        {
+          "warranty": "5 Year Service Warranty"
+        }
+      ]
+    }
+  ]
+}

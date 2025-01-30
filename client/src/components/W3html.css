@@ -1,0 +1,21 @@
+.scrollbars {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 10px;
+  z-index: 10;
+}
+
+.scrollbar-hidden {
+  display: none;
+}
+
+.scrollbar-thumb {
+  background: #333;
+  border-radius: 10px;
+}
+
+.content:hover + .scrollbar,
+.scrollbar:hover {
+  display: block;
+}

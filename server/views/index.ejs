@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles/output.css" />
+    <title>Document</title>
+  </head>
+  <body class="flex h-screen items-center justify-center bg-gray-100">
+    <div class="rounded-lg bg-white p-8 shadow-lg">
+      <h1 class="mb-4 text-4xl text-green-500">Hello Express App with EJS</h1>
+
+      <form
+        action="/upload"
+        method="post"
+        enctype="multipart/form-data"
+        class="space-y-4">
+        <input
+          class="block w-full cursor-pointer rounded-lg border border-gray-300 bg-gray-50 text-sm text-gray-900 focus:outline-none"
+          type="file"
+          name="profileImage" />
+        <button
+          type="submit"
+          class="w-full rounded-lg bg-green-500 py-2 text-white hover:bg-green-600">
+          Upload
+        </button>
+        <button
+          type="submit"
+          class="w-full rounded-sm bg-red-500 py-2 text-white hover:bg-green-600">
+          Upload
+        </button>
+      </form>
+    </div>
+    <script src="/livereload.js"></script>
+  </body>
+</html>
